@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/mikeakinsanya/Mikeliz%20Projects/_apis/build/status/mikeliza.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/mikeakinsanya/Mikeliz%20Projects/_build/latest?definitionId=6&branchName=master)
+[![Build Status](https://dev.azure.com/mikeakinsanya/Mikeliz%20Projects/_apis/build/status/mikeliza.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/mikeakinsanya/Mikeliz%20Projects/_build/latest?definitionId=7&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs 
 
